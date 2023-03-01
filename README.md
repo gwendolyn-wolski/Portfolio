@@ -2,7 +2,7 @@
 Gwendolyn Wolski's Portfolio
 
 ## Introduction
-Hello! I'm a music business and data science undergrad at NYU with a passion for the music industry and using data to uncover insights. I enjoy working on coding projects that explore music metadata and create innovative solutions to industry challenges.
+Hello! I'm a NYU music business and data science undergrad. I enjoy working on coding projects that explore music metadata and create innovative solutions to industry challenges.
 
 ## Projects
 Spotify Parser Playlist Algorithm: Custom playlisting algorithm using Spotify's public API ('Spotipy') to aid A&R and marketing teams at a music label. The algorithm prompts the user to input specific parameters such as genre, mood, artist name, popularity score, or monthly listeners. It then parses through Spotify playlists and filters playlists that meet the input criteria. The algorithm further examines playlist bios to extract those that contain the curator's contact information, such as email or Instagram to easily contact the playlist curators about artist collabs.
